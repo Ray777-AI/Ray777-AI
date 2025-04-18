@@ -1,5 +1,5 @@
 
-### 🖥️ Fullstack Python Engineer | Python | Javascript | DevOps 🖥️
+### 🖥️ Fullstack Python Engineer | Node | React | Next | Python | Javascript | Typescript | AI | ML 🖥️
 
 ---
 
